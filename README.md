@@ -7,7 +7,7 @@ I bridge the gap between physical hardware and cloud-native architecture. I spen
 
 ## What I'm Building
 - **Private Cloud Observability Stack:** A production-grade monitoring solution using **Prometheus & Grafana** to track real-time metrics across a Linux VPS. It's like building a "Google Maps Traffic Report" for server health.
-- **High-Availability Game Networks:** Optimized **Linux** networking to host low-latency game servers (DayZ), managing UDP/TCP traffic flow and firewalls to ensure 99.9% uptime.
+- **High-Availability Game Networks:** Optimized **Linux** networking to host low-latency game servers (DayZ), managing UDP/TCP traffic flow and firewalls to ensure a 99.9% uptime.
 - **The "Docker Jail" (In Progress):** A self-service Bash tool that provisions secure, sandboxed environments for guest developers, using **Docker** isolation.
 
 ---
