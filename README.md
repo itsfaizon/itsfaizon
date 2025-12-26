@@ -12,6 +12,9 @@
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+### My GitHub Stats
+![Jonathan's Stats](https://github-readme-stats.vercel.app/api?username=itsfaizon&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfaizon&layout=compact&theme=tokyonight)
 
 
 I bridge the gap between physical hardware and cloud-native architecture. I spend my days maintaining hyperscale servers for one of the world's largest clouds, and my nights architecting my own private cloud infrastructure using Docker and Linux.
