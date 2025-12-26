@@ -16,16 +16,7 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 📊 GitHub Activities
-
-
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsfaizon&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfaizon&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-<p align="right">
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<p align="right">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Jmthc2g9Zz9jdD1n/SW5k2eirzkzAc/giphy.gif" width="300" alt="Shrek Celebration">
 </p>
 
