@@ -19,17 +19,15 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 📊 GitHub Activities
+### 📊 GitHub Activities
 
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsfaizon&show_icons=true&theme=tokyonight&hide_border=false)
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsfaizon&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfaizon&layout=compact&theme=tokyonight&hide_border=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsfaizon&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfaizon&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6ZzR0eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/TIGPnhTUWKTCVpU5N9/giphy.gif" width="300">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Jmthc2g9Zz9jdD1n/SW5k2eirzkzAc/giphy.gif" width="300" alt="Shrek Celebration">
 </p>
-
 
 I bridge the gap between physical hardware and cloud-native architecture. I spend my days maintaining hyperscale servers for one of the world's largest clouds, and my nights architecting my own private cloud infrastructure using Docker and Linux.
 
