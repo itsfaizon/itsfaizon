@@ -16,13 +16,14 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Jmthc2g9Zz9jdD1n/SW5k2eirzkzAc/giphy.gif" width="300" alt="Shrek Celebration">
-</p>
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 I bridge the gap between physical hardware and cloud-native architecture. I spend my days maintaining hyperscale servers for one of the world's largest clouds, and my nights architecting my own private cloud infrastructure using Docker and Linux.
 
 ---
+<p align="right">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Jmthc2g9Zz9jdD1n/SW5k2eirzkzAc/giphy.gif" width="300" alt="Shrek Celebration">
+</p>
 
 ## What I'm Building
 - **Private Cloud Observability Stack:** A production-grade monitoring solution using **Prometheus & Grafana** to track real-time metrics across a Linux VPS. It's like building a "Google Maps Traffic Report" for server health.
