@@ -1,4 +1,4 @@
-# Greetings!! I'm Jonathan Faizon Porter 
+# Howdy Partner! I'm Jonathan Porter! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ### Cloud Infrastructure Engineer | Data Center Technician | Linux Administrator
 ### Skills
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -23,6 +23,11 @@ I bridge the gap between physical hardware and cloud-native architecture. I spen
 - **High-Availability Game Networks:** Optimized **Linux** networking to host low-latency game servers (DayZ), managing UDP/TCP traffic flow and firewalls to ensure a 99.9% uptime.
 - **The "Docker Jail" (In Progress):** A self-service Bash tool that provisions secure, sandboxed environments for guest developers, using **Docker** isolation.
 
+
+### 🚀 Current Focus
+- 🔭 I’m currently working on **Hybrid Cloud Observability (AWS/GCP/Azure)**
+- 🌱 I’m currently learning **Terraform and Kubernetes**
+- [cite_start]⚡ Fun fact: I repair hyperscale servers at my day job! [cite: 32]
 ---
 
 ## My Technical Toolbox
