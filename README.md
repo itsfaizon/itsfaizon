@@ -34,7 +34,7 @@ I bridge the gap between physical hardware and cloud-native architecture. I spen
 ### 🚀 Current Focus
 - 🔭 I’m currently working on **Hybrid Cloud Observability (AWS/GCP/Azure)**
 - 🌱 I’m currently learning **Terraform and Kubernetes**
-- [cite_start]⚡ Fun fact: I repair hyperscale servers at my day job! [cite: 32]
+- ⚡ Fun fact: I repair hyperscale servers at my day job!
 ---
 
 ## My Technical Toolbox
