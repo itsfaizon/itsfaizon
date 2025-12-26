@@ -17,9 +17,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-### My GitHub Stats
-![Jonathan's Stats](https://github-readme-stats.vercel.app/api?username=itsfaizon&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfaizon&layout=compact&theme=tokyonight)
 
 
 I bridge the gap between physical hardware and cloud-native architecture. I spend my days maintaining hyperscale servers for one of the world's largest clouds, and my nights architecting my own private cloud infrastructure using Docker and Linux.
