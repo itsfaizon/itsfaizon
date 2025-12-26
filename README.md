@@ -21,7 +21,7 @@
 I bridge the gap between physical hardware and cloud-native architecture. I spend my days maintaining hyperscale servers for one of the world's largest clouds, and my nights architecting my own private cloud infrastructure using Docker and Linux.
 
 ---
-<p align="right">
+<p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Z3BxdzZ4Jmthc2g9Zz9jdD1n/SW5k2eirzkzAc/giphy.gif" width="300" alt="Shrek Celebration">
 </p>
 
